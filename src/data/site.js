@@ -314,8 +314,7 @@ export const aboutHero = {
 
 export const aboutBrandIntro = {
   eyebrow: "Founder Story",
-  personName: "Deep Thakkar",
-  position: "Founder",
+  position:"Deep Thakkar",
   title:
     "Lavista is a real estate-focused growth partner with premium creative discipline and performance depth.",
 
@@ -323,7 +322,6 @@ export const aboutBrandIntro = {
   "“Lavista is not just about running ads or posting content. It is about building trust before the first call and maintaining that trust until the final closing.” — Deep Thakkar, Founder.",
 
   "We combine deep Ahmedabad market understanding, luxury-first visual direction, and conversion-led media execution to help projects not just look premium, but actually convert into serious buyers. Every campaign we build is designed with one goal — turning attention into site visits and site visits into confident decisions.",
-  
 ],
 
   image: DeepImg,
@@ -345,8 +343,7 @@ export const aboutBrandIntro = {
 
 export const aboutStory = {
   eyebrow: "Our Story",
-  personName: "Devarsh Thakker",
-  position: "Co-Founder",
+  position:"Devarsh Thakkar",
   title:
     "Lavista was created to solve the gaps that keep too many real estate campaigns looking active but converting poorly.",
 
@@ -359,6 +356,8 @@ export const aboutStory = {
     "Builders and developers needed more than ads. They needed positioning, better creative, clearer lead qualification, and a structured path from first click to site visit.",
 
     "Lavista was built around that need: a real estate growth system where brand perception, campaign performance, and conversion quality work together instead of separately.",
+
+    "“From a creator’s perspective, Lavista stands out because it doesn’t treat marketing as noise. Every campaign has clarity, intent, and a premium feel that connects with real buyers, not just views.” — Devarsh Thakkar, Marketing Influencer\n\nLavista works with a clear system: understanding the project, positioning it correctly, building premium visual communication, targeting the right audience, and ensuring that every lead generated has a higher probability of turning into a site visit. It is not about more leads — it is about better buyers.",
   ],
 
   image: DevarshImg,
